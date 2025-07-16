@@ -33,6 +33,6 @@ This project analyzes global data professionals’ survey responses across roles
 
 ---
 
-**Tools Used**: Power BI | Data Cleaning in Excel  
-**Dataset**: Data Professionals Global Survey 2025  
+**Tool Used**: Power BI   
+**Dataset**: Data Professionals Global Survey   
 **Author**: [Andrew Okebugwu]  
